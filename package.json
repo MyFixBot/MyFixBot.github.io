@@ -1,0 +1,11 @@
+{
+  "name": "fixbot-newsletter",
+  "version": "1.0.0",
+  "description": "A newsletter for fixbot users",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Okolo Johnbosco",
+  "license": "ISC"
+}
